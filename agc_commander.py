@@ -1,6 +1,6 @@
 # AGC commander for python
 # by Cassie Lakin
-# 9th March 2022
+# September  11th 2022
 
 
 from PyQt5.QtWidgets import QApplication, QPushButton, QMainWindow, QLabel, \
